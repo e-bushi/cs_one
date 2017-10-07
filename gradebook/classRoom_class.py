@@ -16,7 +16,7 @@ class ClassRoom:
 
     def command(self):
         """Create command function."""
-        command = input("Type a command (as: add a student, rs: remove a student, aa: add an assignment, ra: remove an assignment, c: calculate average of each student’s grades, e: exit the %s class): " % (self.name))
+        command = input("What would you like to do? (as: add a student, rs: remove a student, aa: add an assignment, ra: remove an assignment, c: calculate average of each student’s grades, e: exit the %s class): " % (self.name))
 
         if command == "as":
             self.add_student_to_roster()
