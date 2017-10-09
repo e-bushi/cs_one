@@ -28,6 +28,9 @@ class ClassRoom:
             self.remove_assignment()
         elif command == "c":
             self.get_student_average()
+        elif command == "e":
+            print("\n%s : %s \nAssignments: %s\nStudents: %s\n" % (self.name, self.meeting_time, self.assignments_roster, self.roster))
+            return
         else:
             pass
         self.command()
@@ -46,27 +49,36 @@ class ClassRoom:
 
             self.meeting_time[weekday] = timing
 
-            add_more_days = input("Adding more days? [yes] or [no]\n")
+            add_more_days = input("Adding more days? [yes] or [no:] ")
             if add_more_days == "yes":
                 add_day = True
             elif add_more_days == "no":
                 add_day = False
             else:
                 add_day = False
-        print(self.meeting_time)
+        print("\n%s Class\nMeeting time[s]: %s\n" % (self.name, self.meeting_time))
 
-    def add_student_to_roster(self, name, on_time):
+    def add_student_to_roster(self):
         """Create function that allows teachers to add students to the roster."""
-        self.roster[name] = Student(name, on_time)
-        print("%s has been added to %s class" % (name, self.name))
+        student_name_id = input("What is the student's name?: ")
+        is_on_time = input("Did this student arrive in class on time? [yes] or [no]: ")
+
+        if is_on_time == "yes":
+            on_time = True
+        else:
+            on_time = False
+
+        self.roster[student_name_id] = Student(student_name_id, on_time)
+        print("%s has been added to %s class. \n" % (student_name_id, self.name))
 
     def remove_student(self):
         """Remove student from roster."""
-        student_name = input("Who do you want to remove from %s" % (self.name))
+        student_name = input("Who do you want to remove from %s: " % (self.name))
 
         if self.roster.get(student_name) is None:
             print("%s is not in %s class" % (student_name, self.name))
         else:
+            print("\n%s has been removed from %s class.\n" % (student_name, self.name))
             self.roster.pop(student_name)
 
     def add_assignment(self, assignment):

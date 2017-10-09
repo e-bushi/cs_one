@@ -6,6 +6,6 @@ class Student():
         """Initialize using parameters to set values for attribute."""
         self.name = name
         self.grades = {}
-        self.on_time
+        self.on_time = True
         self.number_of_assignments = 0
         self.excused_absences = 0

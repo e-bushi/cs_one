@@ -5,4 +5,4 @@ from school_class import School
 
 if __name__ == '__main__':
     make_school = School("Make school")
-    make_school.create_class
+    make_school.create_class()
