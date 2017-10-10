@@ -81,24 +81,45 @@ class ClassRoom:
             print("\n%s has been removed from %s class.\n" % (student_name, self.name))
             self.roster.pop(student_name)
 
-    def add_assignment(self, assignment):
+    def add_assignment(self):
         """Add assignment to array in ClassRoom class."""
+        assignment = input("What assignment would you like to add?: ")
         for student in self.roster:
             self.roster[student].grades[assignment] = int(input("%s's %s grade: " % (student, assignment)))
 
         if assignment not in self.assignments_roster:
             self.assignments_roster.append(assignment)
 
-    def remove_assignment(self, assignment):
+    def remove_assignment(self):
         """Remove assignment from assignment roster."""
-        self.assignment.pop(assignment)
+        assignment = input("\nWhat assignment would you like to remove from %s class" % (self.name))
 
-    def get_student_average(self, name):
+        if assignment in self.assignments_roster:
+            self.assignment.pop(assignment)
+            print("%s has been removed\n" % (assignment))
+
+    def get_student_average(self):
         """Get average of student scores on assignments."""
-        total = 0
-        number_of_assignments = 0
-        for item in self.roster[name].grades:
-            total += self.roster[name].grades[item]
-            number_of_assignments += 1
-        average = round(total / number_of_assignments, 3)
-        return average
+
+        name = input("Whose average would you like to get?: ")
+
+        if name in self.roster:
+
+            if len(self.assignments_roster) > len(self.roster[name].grades):
+                self.update_averages(name)
+            total = 0
+            number_of_assignments = 0
+            for item in self.roster[name].grades:
+                total += self.roster[name].grades[item]
+                number_of_assignments += 1
+            average = round(total / number_of_assignments, 3)
+            self.roster[name].GPA = average
+            print("%s's average in the class is %i" % (name, average))
+        else:
+            print("%s is not this %s class" % name, self.name)
+
+    def update_averages(self, name):
+        """Update average of all students in class."""
+        for assignment in self.assignments_roster:
+            if assignment not in self.roster[name].grades.keys():
+                self.roster[name].grades[assignment] = int(input("%s's %s grade: " % (name, assignment)))
