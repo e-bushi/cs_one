@@ -28,6 +28,12 @@ class Virus(object):
         elif self.name == "typhoid":
             self.mortality_rate = 0.2
             self.basic_reproduction_rate = 2.5
+        elif self.name == "measles":
+            self.mortality_rate = 0.001
+            self.basic_reproduction_rate = 15.0
+        elif self.name == "malaria":
+            self.mortality_rate = 0.0015
+            self.basic_reproduction_rate = 16.0
         else:
             print("That's not a choice. Make sure to check your spelling and that everything is lowercase")
 

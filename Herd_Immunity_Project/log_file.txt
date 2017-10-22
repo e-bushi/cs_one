@@ -1,0 +1,676 @@
+INFORMATION------------>
+Population size: 100
+Your population is dealing with the rabies virus
+Virus Mortality Rate: 100.0
+Virus Basic Reproduction number: 1.3
+Vaccination Rate: 24.0%
+
+Infected person: 24 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+Infected person: 24 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 24 has interacted with healthy person: 37
+Was healthy person 37 infected? -> False
+Infected person: 24 has interacted with healthy person: 66
+Was healthy person 66 infected? -> False
+Infected person: 24 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 24 has interacted with healthy person: 99
+Was healthy person 99 infected? -> False
+Infected person: 24 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 24 has interacted with healthy person: 34
+Was healthy person 34 infected? -> False
+Infected person: 24 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 24 has interacted with healthy person: 80
+Was healthy person 80 infected? -> False
+Infected person: 24 has interacted with healthy person: 47
+Was healthy person 47 infected? -> False
+Infected person: 24 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 24 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+Infected person: 24 has interacted with healthy person: 64
+Was healthy person 64 infected? -> False
+Infected person: 24 has interacted with healthy person: 60
+Was healthy person 60 infected? -> False
+
+
+Infected person 24 lives? -> False
+Dies? -> True
+
+Infected person: 25 has interacted with healthy person: 37
+Was healthy person 37 infected? -> False
+Infected person: 25 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 25 has interacted with healthy person: 97
+Was healthy person 97 infected? -> False
+Infected person: 25 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 25 has interacted with healthy person: 76
+Was healthy person 76 infected? -> False
+Infected person: 25 has interacted with healthy person: 55
+Was healthy person 55 infected? -> False
+Infected person: 25 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 25 has interacted with healthy person: 59
+Was healthy person 59 infected? -> False
+Infected person: 25 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 25 has interacted with healthy person: 68
+Was healthy person 68 infected? -> False
+Infected person: 25 has interacted with healthy person: 60
+Was healthy person 60 infected? -> False
+Infected person: 25 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 25 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 25 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 25 has interacted with healthy person: 81
+Was healthy person 81 infected? -> False
+Infected person: 25 has interacted with healthy person: 56
+Was healthy person 56 infected? -> False
+Infected person: 25 has interacted with healthy person: 45
+Was healthy person 45 infected? -> False
+Infected person: 25 has interacted with healthy person: 95
+Was healthy person 95 infected? -> False
+Infected person: 25 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 25 has interacted with healthy person: 71
+Was healthy person 71 infected? -> False
+Infected person: 25 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 25 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 25 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 25 has interacted with healthy person: 74
+Was healthy person 74 infected? -> False
+Infected person: 25 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 25 has interacted with healthy person: 37
+Was healthy person 37 infected? -> False
+
+
+Infected person 25 lives? -> False
+Dies? -> True
+
+Infected person: 26 has interacted with healthy person: 36
+Was healthy person 36 infected? -> False
+Infected person: 26 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 26 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 26 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 26 has interacted with healthy person: 99
+Was healthy person 99 infected? -> False
+Infected person: 26 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 26 has interacted with healthy person: 87
+Was healthy person 87 infected? -> False
+Infected person: 26 has interacted with healthy person: 37
+Was healthy person 37 infected? -> False
+Infected person: 26 has interacted with healthy person: 56
+Was healthy person 56 infected? -> False
+Infected person: 26 has interacted with healthy person: 48
+Was healthy person 48 infected? -> False
+Infected person: 26 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 26 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 26 has interacted with healthy person: 58
+Was healthy person 58 infected? -> False
+Infected person: 26 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 26 has interacted with healthy person: 37
+Was healthy person 37 infected? -> False
+Infected person: 26 has interacted with healthy person: 56
+Was healthy person 56 infected? -> False
+Infected person: 26 has interacted with healthy person: 54
+Was healthy person 54 infected? -> False
+
+
+Infected person 26 lives? -> False
+Dies? -> True
+
+Infected person: 27 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 27 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 27 has interacted with healthy person: 69
+Was healthy person 69 infected? -> False
+Infected person: 27 has interacted with healthy person: 74
+Was healthy person 74 infected? -> False
+Infected person: 27 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 27 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 27 has interacted with healthy person: 99
+Was healthy person 99 infected? -> False
+Infected person: 27 has interacted with healthy person: 83
+Was healthy person 83 infected? -> False
+Infected person: 27 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 27 has interacted with healthy person: 56
+Was healthy person 56 infected? -> False
+Infected person: 27 has interacted with healthy person: 62
+Was healthy person 62 infected? -> False
+Infected person: 27 has interacted with healthy person: 53
+Was healthy person 53 infected? -> False
+Infected person: 27 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 27 has interacted with healthy person: 63
+Was healthy person 63 infected? -> False
+Infected person: 27 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 27 has interacted with healthy person: 98
+Was healthy person 98 infected? -> False
+Infected person: 27 has interacted with healthy person: 53
+Was healthy person 53 infected? -> False
+Infected person: 27 has interacted with healthy person: 41
+Was healthy person 41 infected? -> False
+Infected person: 27 has interacted with healthy person: 40
+Was healthy person 40 infected? -> False
+Infected person: 27 has interacted with healthy person: 72
+Was healthy person 72 infected? -> False
+Infected person: 27 has interacted with healthy person: 83
+Was healthy person 83 infected? -> False
+Infected person: 27 has interacted with healthy person: 91
+Was healthy person 91 infected? -> False
+Infected person: 27 has interacted with healthy person: 63
+Was healthy person 63 infected? -> False
+Infected person: 27 has interacted with healthy person: 55
+Was healthy person 55 infected? -> False
+Infected person: 27 has interacted with healthy person: 73
+Was healthy person 73 infected? -> False
+Infected person: 27 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 27 has interacted with healthy person: 84
+Was healthy person 84 infected? -> False
+Infected person: 27 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 27 has interacted with healthy person: 53
+Was healthy person 53 infected? -> False
+Infected person: 27 has interacted with healthy person: 83
+Was healthy person 83 infected? -> False
+Infected person: 27 has interacted with healthy person: 34
+Was healthy person 34 infected? -> False
+Infected person: 27 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+Infected person: 27 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 27 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+Infected person: 27 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+
+
+Infected person 27 lives? -> False
+Dies? -> True
+
+Infected person: 28 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+Infected person: 28 has interacted with healthy person: 88
+Was healthy person 88 infected? -> False
+Infected person: 28 has interacted with healthy person: 59
+Was healthy person 59 infected? -> False
+Infected person: 28 has interacted with healthy person: 60
+Was healthy person 60 infected? -> False
+Infected person: 28 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 28 has interacted with healthy person: 78
+Was healthy person 78 infected? -> False
+Infected person: 28 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+Infected person: 28 has interacted with healthy person: 48
+Was healthy person 48 infected? -> False
+Infected person: 28 has interacted with healthy person: 70
+Was healthy person 70 infected? -> False
+Infected person: 28 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+Infected person: 28 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 28 has interacted with healthy person: 99
+Was healthy person 99 infected? -> False
+Infected person: 28 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 28 has interacted with healthy person: 89
+Was healthy person 89 infected? -> False
+
+
+Infected person 28 lives? -> False
+Dies? -> True
+
+Infected person: 29 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 29 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 29 has interacted with healthy person: 98
+Was healthy person 98 infected? -> False
+Infected person: 29 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 29 has interacted with healthy person: 69
+Was healthy person 69 infected? -> False
+Infected person: 29 has interacted with healthy person: 48
+Was healthy person 48 infected? -> False
+Infected person: 29 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 29 has interacted with healthy person: 97
+Was healthy person 97 infected? -> False
+Infected person: 29 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 29 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 29 has interacted with healthy person: 65
+Was healthy person 65 infected? -> False
+Infected person: 29 has interacted with healthy person: 53
+Was healthy person 53 infected? -> False
+Infected person: 29 has interacted with healthy person: 99
+Was healthy person 99 infected? -> False
+Infected person: 29 has interacted with healthy person: 80
+Was healthy person 80 infected? -> False
+Infected person: 29 has interacted with healthy person: 81
+Was healthy person 81 infected? -> False
+Infected person: 29 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 29 has interacted with healthy person: 71
+Was healthy person 71 infected? -> False
+Infected person: 29 has interacted with healthy person: 47
+Was healthy person 47 infected? -> False
+
+
+Infected person 29 lives? -> False
+Dies? -> True
+
+Infected person: 30 has interacted with healthy person: 63
+Was healthy person 63 infected? -> False
+Infected person: 30 has interacted with healthy person: 69
+Was healthy person 69 infected? -> True
+Infected person: 30 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 30 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 30 has interacted with healthy person: 62
+Was healthy person 62 infected? -> False
+Infected person: 30 has interacted with healthy person: 76
+Was healthy person 76 infected? -> False
+Infected person: 30 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 30 has interacted with healthy person: 66
+Was healthy person 66 infected? -> False
+Infected person: 30 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 30 has interacted with healthy person: 45
+Was healthy person 45 infected? -> False
+Infected person: 30 has interacted with healthy person: 98
+Was healthy person 98 infected? -> False
+Infected person: 30 has interacted with healthy person: 80
+Was healthy person 80 infected? -> True
+Infected person: 30 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 30 has interacted with healthy person: 78
+Was healthy person 78 infected? -> False
+Infected person: 30 has interacted with healthy person: 59
+Was healthy person 59 infected? -> False
+Infected person: 30 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 30 has interacted with healthy person: 56
+Was healthy person 56 infected? -> False
+Infected person: 30 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 30 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+Infected person: 30 has interacted with healthy person: 98
+Was healthy person 98 infected? -> False
+Infected person: 30 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 30 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 30 has interacted with healthy person: 55
+Was healthy person 55 infected? -> False
+Infected person: 30 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 30 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 30 has interacted with healthy person: 36
+Was healthy person 36 infected? -> False
+Infected person: 30 has interacted with healthy person: 73
+Was healthy person 73 infected? -> False
+Infected person: 30 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 30 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 30 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 30 has interacted with healthy person: 47
+Was healthy person 47 infected? -> False
+
+
+Infected person 30 lives? -> False
+Dies? -> True
+
+
+
+
+				Phase: 1				
+				People Vaccinated: 24				
+				People Infected: 5				
+				People healthy: 5				
+				People Deceased: 64				
+Infected person: 31 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 31 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 31 has interacted with healthy person: 45
+Was healthy person 45 infected? -> False
+Infected person: 31 has interacted with healthy person: 74
+Was healthy person 74 infected? -> False
+Infected person: 31 has interacted with healthy person: 84
+Was healthy person 84 infected? -> False
+Infected person: 31 has interacted with healthy person: 97
+Was healthy person 97 infected? -> False
+Infected person: 31 has interacted with healthy person: 83
+Was healthy person 83 infected? -> False
+Infected person: 31 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 31 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 31 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 31 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 31 has interacted with healthy person: 62
+Was healthy person 62 infected? -> False
+Infected person: 31 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 31 has interacted with healthy person: 95
+Was healthy person 95 infected? -> False
+Infected person: 31 has interacted with healthy person: 68
+Was healthy person 68 infected? -> False
+Infected person: 31 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 31 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 31 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 31 has interacted with healthy person: 36
+Was healthy person 36 infected? -> False
+Infected person: 31 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 31 has interacted with healthy person: 58
+Was healthy person 58 infected? -> False
+Infected person: 31 has interacted with healthy person: 71
+Was healthy person 71 infected? -> False
+Infected person: 31 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 31 has interacted with healthy person: 49
+Was healthy person 49 infected? -> False
+Infected person: 31 has interacted with healthy person: 65
+Was healthy person 65 infected? -> False
+Infected person: 31 has interacted with healthy person: 58
+Was healthy person 58 infected? -> False
+Infected person: 31 has interacted with healthy person: 44
+Was healthy person 44 infected? -> False
+Infected person: 31 has interacted with healthy person: 39
+Was healthy person 39 infected? -> False
+Infected person: 31 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 31 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 31 has interacted with healthy person: 81
+Was healthy person 81 infected? -> False
+Infected person: 31 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+
+
+Infected person 31 lives? -> False
+Dies? -> True
+
+Infected person: 32 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 32 has interacted with healthy person: 50
+Was healthy person 50 infected? -> False
+Infected person: 32 has interacted with healthy person: 87
+Was healthy person 87 infected? -> False
+Infected person: 32 has interacted with healthy person: 70
+Was healthy person 70 infected? -> False
+Infected person: 32 has interacted with healthy person: 68
+Was healthy person 68 infected? -> False
+Infected person: 32 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 32 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 32 has interacted with healthy person: 40
+Was healthy person 40 infected? -> False
+Infected person: 32 has interacted with healthy person: 34
+Was healthy person 34 infected? -> False
+Infected person: 32 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 32 has interacted with healthy person: 78
+Was healthy person 78 infected? -> False
+Infected person: 32 has interacted with healthy person: 89
+Was healthy person 89 infected? -> False
+Infected person: 32 has interacted with healthy person: 93
+Was healthy person 93 infected? -> False
+Infected person: 32 has interacted with healthy person: 83
+Was healthy person 83 infected? -> False
+Infected person: 32 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 32 has interacted with healthy person: 71
+Was healthy person 71 infected? -> False
+Infected person: 32 has interacted with healthy person: 88
+Was healthy person 88 infected? -> True
+
+
+Infected person 32 lives? -> False
+Dies? -> True
+
+Infected person: 33 has interacted with healthy person: 64
+Was healthy person 64 infected? -> False
+Infected person: 33 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 33 has interacted with healthy person: 64
+Was healthy person 64 infected? -> False
+Infected person: 33 has interacted with healthy person: 48
+Was healthy person 48 infected? -> False
+Infected person: 33 has interacted with healthy person: 65
+Was healthy person 65 infected? -> False
+Infected person: 33 has interacted with healthy person: 68
+Was healthy person 68 infected? -> False
+Infected person: 33 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 33 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 33 has interacted with healthy person: 49
+Was healthy person 49 infected? -> False
+Infected person: 33 has interacted with healthy person: 54
+Was healthy person 54 infected? -> False
+Infected person: 33 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 33 has interacted with healthy person: 38
+Was healthy person 38 infected? -> False
+Infected person: 33 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 33 has interacted with healthy person: 70
+Was healthy person 70 infected? -> False
+Infected person: 33 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 33 has interacted with healthy person: 68
+Was healthy person 68 infected? -> False
+Infected person: 33 has interacted with healthy person: 57
+Was healthy person 57 infected? -> False
+Infected person: 33 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 33 has interacted with healthy person: 89
+Was healthy person 89 infected? -> False
+Infected person: 33 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 33 has interacted with healthy person: 67
+Was healthy person 67 infected? -> False
+Infected person: 33 has interacted with healthy person: 60
+Was healthy person 60 infected? -> False
+Infected person: 33 has interacted with healthy person: 45
+Was healthy person 45 infected? -> False
+Infected person: 33 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 33 has interacted with healthy person: 76
+Was healthy person 76 infected? -> False
+Infected person: 33 has interacted with healthy person: 74
+Was healthy person 74 infected? -> False
+Infected person: 33 has interacted with healthy person: 75
+Was healthy person 75 infected? -> False
+Infected person: 33 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 33 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 33 has interacted with healthy person: 40
+Was healthy person 40 infected? -> False
+Infected person: 33 has interacted with healthy person: 84
+Was healthy person 84 infected? -> False
+
+
+Infected person 33 lives? -> False
+Dies? -> True
+
+Infected person: 69 has interacted with healthy person: 60
+Was healthy person 60 infected? -> False
+Infected person: 69 has interacted with healthy person: 91
+Was healthy person 91 infected? -> False
+Infected person: 69 has interacted with healthy person: 63
+Was healthy person 63 infected? -> False
+Infected person: 69 has interacted with healthy person: 76
+Was healthy person 76 infected? -> False
+Infected person: 69 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 69 has interacted with healthy person: 43
+Was healthy person 43 infected? -> False
+Infected person: 69 has interacted with healthy person: 89
+Was healthy person 89 infected? -> False
+Infected person: 69 has interacted with healthy person: 64
+Was healthy person 64 infected? -> False
+Infected person: 69 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 69 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 69 has interacted with healthy person: 93
+Was healthy person 93 infected? -> False
+Infected person: 69 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 69 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 69 has interacted with healthy person: 94
+Was healthy person 94 infected? -> False
+Infected person: 69 has interacted with healthy person: 44
+Was healthy person 44 infected? -> False
+Infected person: 69 has interacted with healthy person: 49
+Was healthy person 49 infected? -> False
+Infected person: 69 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+
+
+Infected person 69 lives? -> False
+Dies? -> True
+
+Infected person: 80 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 80 has interacted with healthy person: 65
+Was healthy person 65 infected? -> False
+Infected person: 80 has interacted with healthy person: 71
+Was healthy person 71 infected? -> False
+Infected person: 80 has interacted with healthy person: 36
+Was healthy person 36 infected? -> False
+Infected person: 80 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 80 has interacted with healthy person: 55
+Was healthy person 55 infected? -> False
+Infected person: 80 has interacted with healthy person: 61
+Was healthy person 61 infected? -> False
+Infected person: 80 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 80 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 80 has interacted with healthy person: 52
+Was healthy person 52 infected? -> False
+Infected person: 80 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 80 has interacted with healthy person: 35
+Was healthy person 35 infected? -> False
+Infected person: 80 has interacted with healthy person: 51
+Was healthy person 51 infected? -> False
+Infected person: 80 has interacted with healthy person: 77
+Was healthy person 77 infected? -> False
+Infected person: 80 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 80 has interacted with healthy person: 78
+Was healthy person 78 infected? -> False
+Infected person: 80 has interacted with healthy person: 40
+Was healthy person 40 infected? -> False
+Infected person: 80 has interacted with healthy person: 79
+Was healthy person 79 infected? -> False
+Infected person: 80 has interacted with healthy person: 89
+Was healthy person 89 infected? -> False
+Infected person: 80 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+Infected person: 80 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 80 has interacted with healthy person: 97
+Was healthy person 97 infected? -> False
+Infected person: 80 has interacted with healthy person: 82
+Was healthy person 82 infected? -> False
+Infected person: 80 has interacted with healthy person: 58
+Was healthy person 58 infected? -> False
+
+
+Infected person 80 lives? -> False
+Dies? -> True
+
+Infected person: 88 has interacted with healthy person: 40
+Was healthy person 40 infected? -> False
+Infected person: 88 has interacted with healthy person: 72
+Was healthy person 72 infected? -> False
+Infected person: 88 has interacted with healthy person: 84
+Was healthy person 84 infected? -> False
+Infected person: 88 has interacted with healthy person: 95
+Was healthy person 95 infected? -> False
+Infected person: 88 has interacted with healthy person: 84
+Was healthy person 84 infected? -> False
+Infected person: 88 has interacted with healthy person: 91
+Was healthy person 91 infected? -> False
+Infected person: 88 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 88 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 88 has interacted with healthy person: 75
+Was healthy person 75 infected? -> False
+Infected person: 88 has interacted with healthy person: 42
+Was healthy person 42 infected? -> False
+Infected person: 88 has interacted with healthy person: 98
+Was healthy person 98 infected? -> False
+Infected person: 88 has interacted with healthy person: 46
+Was healthy person 46 infected? -> False
+Infected person: 88 has interacted with healthy person: 96
+Was healthy person 96 infected? -> False
+Infected person: 88 has interacted with healthy person: 87
+Was healthy person 87 infected? -> False
+Infected person: 88 has interacted with healthy person: 86
+Was healthy person 86 infected? -> False
+Infected person: 88 has interacted with healthy person: 90
+Was healthy person 90 infected? -> False
+Infected person: 88 has interacted with healthy person: 85
+Was healthy person 85 infected? -> False
+
+
+Infected person 88 lives? -> False
+Dies? -> True
+
+
+
+
+				Phase: 2				
+				People Vaccinated: 24				
+				People Infected: 0				
+				People healthy: 0				
+				People Deceased: 63				

@@ -55,8 +55,8 @@ class Logger(object):
         # full file name of the file that the logs will be written to.
         self.file_name = file_name
 
-    def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
-                       basic_repro_num):
+    def write_metadata(self, pop_size, virus_name, mortality_rate,
+                       basic_repro_num, vacc_percentage):
         # TODO: Finish this method.  The simulation class should use this method
         # immediately upon creation, to log the specific parameters of the simulation
         # as the first line of the file.  This line of metadata should be tab-delimited
@@ -67,10 +67,19 @@ class Logger(object):
         # since 'w' overwrites the file.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        
+        with open('log_file.txt', 'w+') as f:
 
-    def log_interaction(self, person1, person2, did_infect=None,
-                        person2_vacc=None, person2_sick=None):
+            f.write(
+                "INFORMATION------------>\nPopulation size: {}\nYour population is dealing with the {} virus\n"
+                "Virus Mortality Rate: {}\n"
+                "Virus Basic Reproduction number: {}\n"
+                "Vaccination Rate: {}%\n\n".format(pop_size, virus_name, mortality_rate, basic_repro_num, vacc_percentage))
+
+
+
+
+
+    def log_interaction(self, person1, person2, did_infect=None):
         # TODO: Finish this method.  The Simulation object should use this method to
         # log every interaction a sick individual has during each time step.  This method
         # should accomplish this by using the information from person1 (the infected person),
@@ -82,7 +91,12 @@ class Logger(object):
         # all the possible edge cases!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        with open('log_file.txt', 'a') as f:
+            f.write(
+                "Infected person: {} has interacted with healthy person: {}\n"
+                "Was healthy person {} infected? -> {}\n".format(person1, person2, person2, did_infect)
+            )
+
 
     def log_infection_survival(self, person, did_die_from_infection):
         # TODO: Finish this method.  The Simulation object should use this method to log
@@ -92,9 +106,18 @@ class Logger(object):
         # on the format of the log.
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        lived = None
+        if did_die_from_infection is True:
+            lived = False
+        else:
+            lived = True
+        with open('log_file.txt', 'a') as f:
+            f.write(
+                "\n\nInfected person {} lives? -> {}\n"
+                "Dies? -> {}\n\n".format(person, lived, did_die_from_infection)
+            )
 
-    def log_time_step(self, time_step_number):
+    def log_time_step(self, time_step_number, ppl_vaccinated, ppl_infected, ppl_healthy, ppl_deceased):
         # TODO: Finish this method.  This method should log when a time step ends, and a
         # new one begins.  See the documentation for more information on the format of the log.
         # NOTE: Stretch challenge opportunity! Modify this method so that at the end of each time
@@ -103,4 +126,11 @@ class Logger(object):
         # to compute these statistics for you, as a Logger's job is just to write logs!
         # NOTE: Make sure to end every line with a '/n' character to ensure that each
         # event logged ends up on a separate line!
-        pass
+        with open('log_file.txt', 'a') as f:
+            f.write(
+                "\n\n\n\t\t\t\tPhase: {}\t\t\t\t\n"
+                "\t\t\t\tPeople Vaccinated: {}\t\t\t\t\n"
+                "\t\t\t\tPeople Infected: {}\t\t\t\t\n"
+                "\t\t\t\tPeople healthy: {}\t\t\t\t\n"
+                "\t\t\t\tPeople Deceased: {}\t\t\t\t\n".format(time_step_number, ppl_vaccinated, ppl_infected, ppl_infected, ppl_healthy, ppl_deceased)
+            )
